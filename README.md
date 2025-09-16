@@ -1,19 +1,6 @@
 # Student Management
 
-Ứng dụng quản lý học sinh sinh viên.
-
-## 1. Thành viên thực hiện
-
-<details>
-  <summary>Thông tin chi tiết các thành viên</summary>
-
-| STT | MSSV     | Họ và tên                                                  | Lớp      |
-| --- | -------- | ---------------------------------------------------------- | -------- |
-| 0   | 19522424 | [Lê Hữu Trung](https://github.com/lehuutrung1412)          | KHTN2019 |
-| 1   | 19520354 | [Ngô Quang Vinh](https://github.com/vinhqngo5)             | KHTN2019 |
-| 2   | 19521300 | [Nguyễn Đỗ Mạnh Cường](https://github.com/cuongnguyen1402) | KHTN2019 |
-| 3   | 19521178 | [Nguyễn Đình Bình An](https://github.com/19521178)         | KHTN2019 |
-| 4   | 19520257 | [Hứa Thanh Tân](https://github.com/htthtt12t1)             | KHTN2019 |
+# Phần mềm giảng dạy và học tập
 
 </details>
 
@@ -612,5 +599,6 @@
 29. Nhập thông tin muốn sửa thành của lớp môn học đang chọn - textbox, combobox, datepicker
 30. Thoát khỏi giao diện chỉnh sửa - button
 31. Xác nhận thông tin chỉnh sửa - button
+
 
 </details>
